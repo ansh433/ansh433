@@ -1,11 +1,27 @@
 
+<div align="center">
+
 # Hi, I'm Ansh Verma
 
 ### Applied AI & Full-Stack Engineer
 
-I build AI-powered applications end to end, from designing agentic workflows and integrating LLMs to developing backend systems, frontend interfaces, and deployment infrastructure.
+I design and build AI-powered products end to end, from multi-agent workflows and RAG pipelines to the backend systems, frontend interfaces, and infrastructure that power them.
 
-My focus is **Applied AI and Full-Stack Engineering**, with an emphasis on owning the complete product lifecycle: architecture, implementation, integration, deployment, and reliability.
+<p>
+  <a href="https://anshv.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ansh-verma-491842378/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:verma4ansh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+</div>
+
+---
 
 ## What I Work On
 
@@ -49,7 +65,3 @@ AWS · Docker · GitHub Actions · CI/CD · Vercel
 I'm interested in **Applied AI Engineer, AI Product Engineer, and Full-Stack Engineer** opportunities, particularly with early-stage teams building AI-powered SaaS products.
 
 I enjoy working across engineering boundaries, taking ownership of features and systems from initial design through implementation and deployment.
-
----
-
-[GitHub](https://github.com/ansh433)
