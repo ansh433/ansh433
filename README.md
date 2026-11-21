@@ -1,16 +1,16 @@
 
-<div align="center">
+<h1 align="center">Hi, I'm Ansh Verma</h1>
 
-# Hi, I'm Ansh Verma
-
-### Applied AI & Full-Stack Engineer
-
-I design and build AI-powered products end to end, from multi-agent workflows and RAG pipelines to the backend systems, frontend interfaces, and infrastructure that power them.
+<h3 align="center">Applied AI & Full-Stack Engineer</h3>
 
 <p align="center">
-  <a href="https://anshv.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/ansh-verma-491842378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:verma4ansh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+I design and build AI-powered products end to end, from multi-agent workflows and RAG pipelines to the backend systems, frontend interfaces, and infrastructure that power them.
+</p>
+
+<p align="center">
+<a href="https://anshv.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/ansh-verma-491842378/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:verma4ansh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -37,19 +37,24 @@ I design and build AI-powered products end to end, from multi-agent workflows an
 
 ## Technical Stack
 
-**AI & LLM Engineering**  
+**AI & LLM Engineering**
+
 LangGraph · RAG · LLM APIs · Multi-Agent Systems · Tool Calling · LiveKit · ChromaDB
 
-**Backend**  
+**Backend**
+
 Python · FastAPI · Node.js · Express · REST APIs · WebSockets
 
-**Frontend**  
+**Frontend**
+
 React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
-**Databases & Storage**  
+**Databases & Storage**
+
 PostgreSQL · Redis · MongoDB · Convex · ChromaDB · AWS S3
 
-**Cloud & DevOps**  
+**Cloud & DevOps**
+
 AWS · Docker · GitHub Actions · CI/CD · Vercel
 
 ## What I'm Looking For
